@@ -44,11 +44,7 @@ This is a JavaFX application that displays driver statistics for the years 2016 
 
 ## How to Run
 
-1. Ensure you have Java and JavaFX installed on your system.
-2. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/driver-stats-app.git
-    ```
+
 3. Navigate to the project directory:
     ```bash
     cd driver-stats-app
